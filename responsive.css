@@ -1,0 +1,26 @@
+/* mobile media query  */
+
+@media screen and (max-width:425px) {
+
+   .nav-container{
+flex-direction: column repeat(1 ,1fr);
+}
+    .nav-item-container{
+        flex-direction: column repeat(1 ,1fr);
+    }
+
+    .nav-item-container a{
+      margin-top: 20px;
+    }
+
+
+}
+
+
+
+
+/* tablet media query */
+
+@media screen {
+    
+}
