@@ -10,7 +10,6 @@ body {
 }
 
 
-
 /* navbar section styles */
 
 .nav-container {
@@ -18,8 +17,7 @@ body {
     min-height: 50px;
     background: #FFF;
     width: 1410px;
-    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
-
+    /* box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05); */
 }
 
 .nav-container img {
@@ -42,7 +40,6 @@ body {
 .logo-container {
     min-width: 50%;
     align-items: center;
-
 }
 
 .nav-item-container {
@@ -76,7 +73,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 }
 
 .nav-icons i {
@@ -257,7 +253,6 @@ color: #FFF;
     height: 300px;
     border-radius: 16px;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-
 }
 
 .card-1 p {
@@ -269,6 +264,7 @@ color: #FFF;
     text-align: left;
 }
 
+  
 .card-2 {
     width: 300px;
     height: 300px;
@@ -317,14 +313,6 @@ color: #FFF;
     text-align: left;
 }
 
-
-.card img:hover {
-    cursor: pointer;
-    
-  content: Watch Me;
-    align-items: center;
-
-}
 /* box section styles */
 
 .box-container {
